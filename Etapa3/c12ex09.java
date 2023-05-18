@@ -18,6 +18,7 @@ public class c12ex09 {
         for (int aux=0;aux< vet.length;aux++) {
             if (soma % vet[aux] == 0){
                 System.out.print(vet[aux]+" ");
+                
             }
         }
         tec.close();
