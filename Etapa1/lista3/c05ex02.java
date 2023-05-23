@@ -1,4 +1,4 @@
-package Etapa1.lista3;
+package AED1.Etapa1.lista3;
 import java.util.Scanner;
 //Função: Calcula a área da superfície esférica e o volume de uma esfera
 public class c05ex02 {

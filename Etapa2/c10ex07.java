@@ -1,4 +1,4 @@
-package Etapa2;
+package AED1.Etapa2;
 import java.util.Scanner;
 public class c10ex07 {
     public static void main(String[] args) {

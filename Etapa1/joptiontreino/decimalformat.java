@@ -1,4 +1,4 @@
-package Etapa1.joptiontreino;
+package AED1.Etapa1.joptiontreino;
 import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
 public class decimalformat {

@@ -1,4 +1,4 @@
-package Etapa1.lista3;
+package AED1.Etapa1.lista3;
 import java.util.Scanner;
 //Função: Calcula o valor do raio
 public class c05ex08 {

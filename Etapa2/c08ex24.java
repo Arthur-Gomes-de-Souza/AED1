@@ -1,4 +1,4 @@
-package Etapa2;
+package AED1.Etapa2;
 public class c08ex24 {
     public static void main(String[] args) {
         double serie, soma = 0;

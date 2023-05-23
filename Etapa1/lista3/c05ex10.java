@@ -1,4 +1,4 @@
-package Etapa1.lista3;
+package AED1.Etapa1.lista3;
 import java.util.Scanner;
 //Função: imprimir o número na vertical
 public class c05ex10 {

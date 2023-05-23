@@ -1,4 +1,4 @@
-package lista4;
+package AED1.Etapa1.lista4;
 import java.util.Scanner;
 //FUNÇÃO: CALCULA O VALOR DA CONTA DE TV
 public class c06ex15 {

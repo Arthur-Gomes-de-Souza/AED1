@@ -1,4 +1,4 @@
-package Etapa1.lista2;
+package AED1.Etapa1.lista2;
 import javax.swing.JOptionPane;
 public class c04ex04 {
     public static void main(String[] args) {

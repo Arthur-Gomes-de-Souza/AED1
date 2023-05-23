@@ -1,4 +1,4 @@
-package Etapa2;
+package AED1.Etapa2;
 public class c08ex27 {
     public static void main(String[] args) {
         double conta;

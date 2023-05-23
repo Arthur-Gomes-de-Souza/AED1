@@ -1,20 +1,20 @@
-package Etapa1.lista3;
+package AED1.Etapa1.lista3;
 import java.util.Scanner;
 public class c05ex13 {
     public static void main(String[] args) {
         int numero, d1, d2, d3, d4;
         Scanner teclado = new Scanner(System.in);
-        System.out.println("Informe um número inteiro de 4 dígitos: ");
+        System.out.println("Informe um nï¿½mero inteiro de 4 dï¿½gitos: ");
         numero= teclado.nextInt();
         d1= numero/1000;
         d2= numero/100%10;
         d3= numero/10%10;
         d4= numero%10;
         if (d1==d4 && d2==d3){
-            System.out.println("O número é um palíndromo.");
+            System.out.println("O nï¿½mero ï¿½ um palï¿½ndromo.");
         }
         else {
-            System.out.println("O número não é um palíndromo.");
+            System.out.println("O nï¿½mero nï¿½o ï¿½ um palï¿½ndromo.");
         }
         teclado.close();
     }

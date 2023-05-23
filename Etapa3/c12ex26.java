@@ -1,4 +1,4 @@
-package Etapa3;
+package AED1.Etapa3;
 
 import java.util.Scanner;
 

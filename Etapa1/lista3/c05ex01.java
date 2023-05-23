@@ -1,4 +1,4 @@
-package Etapa1.lista3;
+package AED1.Etapa1.lista3;
 import java.util.Scanner;
 // Funçao: calcular f(x)= x^3 + 4x + 10
 public class c05ex01 {

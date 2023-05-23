@@ -1,4 +1,4 @@
-package lista5;
+package AED1.Etapa1.lista5;
 
 import java.util.Scanner;
 

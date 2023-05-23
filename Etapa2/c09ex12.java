@@ -1,4 +1,4 @@
-package Etapa2;
+package AED1.Etapa2;
 
 public class c09ex12 {
     public static void main(String[] args) {

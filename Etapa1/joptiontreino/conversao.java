@@ -1,4 +1,4 @@
-package Etapa1.joptiontreino;
+package AED1.Etapa1.joptiontreino;
 import javax.swing.JOptionPane;
 public class conversao {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class conversao {
         "Aula de Java",
                 JOptionPane.QUESTION_MESSAGE);
         numFilhosStr = JOptionPane.showInputDialog(null,
-                "Quantos filhos você tem? ",
+                "Quantos filhos vocï¿½ tem? ",
                 "Aula de Java",
                 JOptionPane.QUESTION_MESSAGE);
         int numFilhos = Integer.valueOf(numFilhosStr);

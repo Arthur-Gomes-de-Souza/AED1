@@ -1,4 +1,4 @@
-package Etapa2;
+package AED1.Etapa2;
 public class c08ex26 {
     public static void main(String[] args) {
         for (int aux3 = 1; aux3<=10; aux3++) {

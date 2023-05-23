@@ -1,4 +1,4 @@
-package prova;
+package AED1.prova;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Etapa2;
+package AED1.Etapa2;
 //rever
 public class c09ex13 {
     public static void main(String[] args) {

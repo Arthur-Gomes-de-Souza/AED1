@@ -1,4 +1,4 @@
-package Etapa2;
+package AED1.Etapa2;
 import java.util.Scanner;
 //REVER
 public class c08ex20 {

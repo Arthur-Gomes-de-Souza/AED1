@@ -1,4 +1,4 @@
-package Etapa1.lista1;
+package AED1.Etapa1.lista1;
 import java.util.Scanner;
 public class c03ex03 {
    public static void main(String[] args) {

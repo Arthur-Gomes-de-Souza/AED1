@@ -1,4 +1,4 @@
-package lista5;
+package AED1.Etapa1.lista5;
 import java.util.Scanner;
 public class c07ex04 {
     public static void main(String[] args) {
@@ -11,13 +11,13 @@ public class c07ex04 {
                 estado = "Minas Gerais";
             case "Botafogo","Flamengo","Fluminense","Vasco" ->
                 estado= "Rio de Janeiro";
-            case "Corinthians","Palmeiras","Santos","São Paulo" ->
-                estado= "São Paulo";
-            case "Grêmio","Internacional","Juventude" ->
+            case "Corinthians","Palmeiras","Santos","Sï¿½o Paulo" ->
+                estado= "Sï¿½o Paulo";
+            case "Grï¿½mio","Internacional","Juventude" ->
                 estado= "Rio Grande do Sul";
-            case "Náutico","Santa Cruz","Sport" ->
+            case "Nï¿½utico","Santa Cruz","Sport" ->
                 estado= "Pernambuco";
         }
-        System.out.println("Essa equipe é de "+estado);
+        System.out.println("Essa equipe ï¿½ de "+estado);
     }
 }
